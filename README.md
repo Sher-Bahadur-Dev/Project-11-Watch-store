@@ -1,9 +1,14 @@
-# Project 11 Watch Store
+# ChronoLux
 
 ## Overview
 
-**Project-11-Watch-store** is a static html/css/js website built using **CSS and JavaScript and HTML5**.
+ChronoLux is implemented in this repository.
+
 A modern and responsive e-commerce website for browsing and showcasing premium watches. The store features a clean user interface, attractive product displays, responsive layouts, and an engaging shopping experience.
+
+## Features
+
+- **Shopping cart / checkout**: Found cart or checkout code in source files
 
 ## Tech Stack
 
@@ -26,7 +31,7 @@ README.md            # Project documentation and getting started guide.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sher-Bahadur-417/Project-11-Watch-store.git
+git clone https://github.com/Sher-Bahadur-Dev/Project-11-Watch-store.git
 
 # Navigate into the project folder
 cd Project-11-Watch-store
@@ -36,14 +41,8 @@ cd Project-11-Watch-store
 ### Running the Project
 
 ```bash
-# Run using your preferred server or runtime
+# Run using the runtime found in this repository
 ```
-
-## Screenshots
-
-> *Add screenshots or a GIF demonstration here.*
-
-<!-- ![App Screenshot](path/to/screenshot.png) -->
 
 ## License
 
